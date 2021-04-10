@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/world-app-react/static/css/main.efaba816.chunk.css",
+    "main.js": "/world-app-react/static/js/main.cbc536b7.chunk.js",
+    "main.js.map": "/world-app-react/static/js/main.cbc536b7.chunk.js.map",
+    "runtime-main.js": "/world-app-react/static/js/runtime-main.8461f21f.js",
+    "runtime-main.js.map": "/world-app-react/static/js/runtime-main.8461f21f.js.map",
+    "static/js/2.bf14c3db.chunk.js": "/world-app-react/static/js/2.bf14c3db.chunk.js",
+    "static/js/2.bf14c3db.chunk.js.map": "/world-app-react/static/js/2.bf14c3db.chunk.js.map",
+    "static/js/3.d0e39ad0.chunk.js": "/world-app-react/static/js/3.d0e39ad0.chunk.js",
+    "static/js/3.d0e39ad0.chunk.js.map": "/world-app-react/static/js/3.d0e39ad0.chunk.js.map",
+    "index.html": "/world-app-react/index.html",
+    "static/css/main.efaba816.chunk.css.map": "/world-app-react/static/css/main.efaba816.chunk.css.map",
+    "static/js/2.bf14c3db.chunk.js.LICENSE.txt": "/world-app-react/static/js/2.bf14c3db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8461f21f.js",
+    "static/js/2.bf14c3db.chunk.js",
+    "static/css/main.efaba816.chunk.css",
+    "static/js/main.cbc536b7.chunk.js"
+  ]
+}
