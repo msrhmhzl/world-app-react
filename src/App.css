@@ -12,6 +12,30 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.row {
+  margin-top: 3%;
+  width: 100%;
+  min-height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.row > div{
+  flex: 1;
+  margin: 20px;
+}
+.app-container{
+  height: 70px;
+  background-color: #FEFEFE;
+  box-shadow: 0 0 0.875em rgb(0 0 0 / 16%);
+} 
+
+.header-text {
+  margin-top: 0;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 1em 1em;
+} 
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +60,42 @@
     transform: rotate(360deg);
   }
 }
+
+.input-container{
+  display: flex;
+  margin: auto;
+  box-shadow: 0 0 0.875em rgb(0 0 0 / 16%);
+  width: 50%;
+  background:none;
+  border-radius: 18px;
+  margin-top: 5%;
+}
+
+.search-box{
+  margin-top: 0px;
+  border: none;
+  border-top-left-radius:18px;
+  border-bottom-left-radius:18px;
+  font-family: inherit;
+  font-size: inherit;
+  height: 40px;
+  outline: none;
+  padding-inline-end: 44px;
+  padding-inline-start: 52px;
+  position: relative;
+  width: 80%;
+  
+}
+.search-boxbtn{
+  display: inline-block;
+  background: #FEFEFE;
+  font-size: 20px; 
+  border-top-right-radius:18px;
+  border-bottom-right-radius:18px;
+  outline: none;
+  border: 0;
+  margin-top: 0px;
+  width: 20%;
+  cursor: pointer;
+}
+
